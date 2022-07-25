@@ -1,6 +1,6 @@
 # Thailand geographic data (GIS) 
 
-1. **shapefiles** ของตำบล อำเภอในแต่ละจังหวัด (folder, and zip) สำหรับ Excel Power Map
+1. **shapefile .shp .shx .dbf .prj .cpg** ของตำบล อำเภอในแต่ละจังหวัด (folder, and zip) สำหรับ Excel Power Map
 1. **kml** ของตำบล อำเภอในแต่ละจังหวัด (สำหรับ Excel Power Map)
 1. **TopoJSON** ของอำเภอในแต่ละจังหวัด (สำหรับ Power BI)
 1. **csv** ตำบล อำเภอในแต่ละจังหวัด

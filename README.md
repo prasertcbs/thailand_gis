@@ -1,4 +1,4 @@
-# Thailand geographic (GIS) data (utf-8)
+# Thailand geographic data (GIS) 
 
 1. **shapefiles** ของตำบล อำเภอในแต่ละจังหวัด (folder, and zip) สำหรับ Excel Power Map
 1. **kml** ของตำบล อำเภอในแต่ละจังหวัด (สำหรับ Excel Power Map)

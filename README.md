@@ -1,4 +1,4 @@
-# thailand_gis
+# thailand_gis (utf-8)
 
 1. shapefiles ของอำเภอในแต่ละจังหวัด (folder, and zip)
 

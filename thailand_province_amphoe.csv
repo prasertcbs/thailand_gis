@@ -1,0 +1,929 @@
+ADM2_EN,ADM2_TH,ADM2_PCODE,ADM1_EN,ADM1_TH,ADM1_PCODE,ADM0_EN,ADM0_TH,ADM0_PCODE
+Phra Nakhon,พระนคร,TH1001,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Dusit,ดุสิต,TH1002,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Nong Chok,หนองจอก,TH1003,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Rak,บางรัก,TH1004,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Khen,บางเขน,TH1005,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Kapi,บางกะปิ,TH1006,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Pathum Wan,ปทุมวัน,TH1007,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Pom Prap Sattru Phai,ป้อมปราบศัตรูพ่า,TH1008,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Phra Khanong,พระโขนง,TH1009,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Min Buri,มีนบุรี,TH1010,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Lat Krabang,ลาดกระบัง,TH1011,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Yan Nawa,ยานนาวา,TH1012,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Samphanthawong,สัมพันธวงศ์,TH1013,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Phaya Thai,พญาไท,TH1014,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Thon Buri,ธนบุรี,TH1015,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bangkok Yai,บางกอกใหญ่,TH1016,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Huai Khwang,ห้วยขวาง,TH1017,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Khlong San,คลองสาน,TH1018,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Taling Chan,ตลิ่งชัน,TH1019,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bangkok Noi,บางกอกน้อย,TH1020,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Khun Thian,บางขุนเทียน,TH1021,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Phasi Charoen,ภาษีเจริญ,TH1022,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Nong Khaem,หนองแขม,TH1023,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Rat Burana,ราษฎร์บูรณะ,TH1024,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Phlat,บางพลัด,TH1025,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Din Daeng,ดินแดง,TH1026,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bueng Kum,บึงกุ่ม,TH1027,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Sathon,สาทร,TH1028,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Sue,บางซื่อ,TH1029,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Chatuchak,จตุจักร,TH1030,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Kho Laem,บางคอแหลม,TH1031,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Prawet,ประเวศ,TH1032,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Khlong Toei,คลองเตย,TH1033,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Suan Luang,สวนหลวง,TH1034,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Chom Thong,จอมทอง,TH1035,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Don Mueang,ดอนเมือง,TH1036,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Ratchathewi,ราชเทวี,TH1037,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Lat Phrao,ลาดพร้าว,TH1038,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Vadhana,วัฒนา,TH1039,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Khae,บางแค,TH1040,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Lak Si,หลักสี่,TH1041,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Sai Mai,สายไหม,TH1042,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Khan Na Yao,คันนายาว,TH1043,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Saphan Sung,สะพานสูง,TH1044,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Wang Thonglang,วังทองหลาง,TH1045,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Khlong Sam Wa,คลองสามวา,TH1046,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Na,บางนา,TH1047,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Thawi Watthana,ทวีวัฒนา,TH1048,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Thung Khru,ทุ่งครุ,TH1049,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Bang Bon,บางบอน,TH1050,Bangkok,กรุงเทพมหานคร,TH10,Thailand,ประเทศไทย,TH
+Mueang Samut Prakan,เมืองสมุทรปราการ,TH1101,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Bang Bo,บางบ่อ,TH1102,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Bang Phli,บางพลี,TH1103,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Phra Pradaeng,พระประแดง,TH1104,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Phra Samut Chedi,พระสมุทรเจดีย์,TH1105,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Bang Sao Thong,บางเสาธง,TH1106,Samut Prakan,สมุทรปราการ,TH11,Thailand,ประเทศไทย,TH
+Mueang Nonthaburi,เมืองนนทบุรี,TH1201,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Bang Kruai,บางกรวย,TH1202,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Bang Yai,บางใหญ่,TH1203,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Bang Bua Thong,บางบัวทอง,TH1204,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Sai Noi,ไทรน้อย,TH1205,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Pak Kret,ปากเกร็ด,TH1206,Nonthaburi,นนทบุรี,TH12,Thailand,ประเทศไทย,TH
+Mueang Pathum Thani,เมืองปทุมธานี,TH1301,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Khlong Luang,คลองหลวง,TH1302,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Thanyaburi,ธัญบุรี,TH1303,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Nong Suea,หนองเสือ,TH1304,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Lat Lum Kaeo,ลาดหลุมแก้ว,TH1305,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Lam Luk Ka,ลำลูกกา,TH1306,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Sam Khok,สามโคก,TH1307,Pathum Thani,ปทุมธานี,TH13,Thailand,ประเทศไทย,TH
+Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH1401,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Tha Ruea,ท่าเรือ,TH1402,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Nakhon Luang,นครหลวง,TH1403,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Bang Sai,บางไทร,TH1404,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Bang Ban,บางบาล,TH1405,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Bang Pa-In,บางปะอิน,TH1406,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Bang Pahan,บางปะหัน,TH1407,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Phak Hai,ผักไห่,TH1408,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Phachi,ภาชี,TH1409,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Lat Bua Luang,ลาดบัวหลวง,TH1410,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Wang Noi,วังน้อย,TH1411,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Sena,เสนา,TH1412,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Bang Sai,บางซ้าย,TH1413,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Uthai,อุทัย,TH1414,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Maha Rat,มหาราช,TH1415,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Ban Phraek,บ้านแพรก,TH1416,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,TH14,Thailand,ประเทศไทย,TH
+Mueang Ang Thong,เมืองอ่างทอง,TH1501,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Chaiyo,ไชโย,TH1502,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Pa Mok,ป่าโมก,TH1503,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Pho Thong,โพธิ์ทอง,TH1504,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Sawaeng Ha,แสวงหา,TH1505,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Wiset Chai Chan,วิเศษชัยชาญ,TH1506,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Samko,สามโก้,TH1507,Ang Thong,อ่างทอง,TH15,Thailand,ประเทศไทย,TH
+Mueang Lop Buri,เมืองลพบุรี,TH1601,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Phatthana Nikhom,พัฒนานิคม,TH1602,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Khok Samrong,โคกสำโรง,TH1603,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Chai Badan,ชัยบาดาล,TH1604,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Tha Wung,ท่าวุ้ง,TH1605,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Ban Mi,บ้านหมี่,TH1606,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Tha Luang,ท่าหลวง,TH1607,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Sa Bot,สระโบสถ์,TH1608,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Khok Charoen,โคกเจริญ,TH1609,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Lam Sonthi,ลำสนธิ,TH1610,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Nong Muang,หนองม่วง,TH1611,Lop Buri,ลพบุรี,TH16,Thailand,ประเทศไทย,TH
+Mueang Sing Buri,เมืองสิงห์บุรี,TH1701,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+Bang Rachan,บางระจัน,TH1702,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+Khai Bang Rachan,ค่ายบางระจัน,TH1703,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+Phrom Buri,พรหมบุรี,TH1704,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+Tha Chang,ท่าช้าง,TH1705,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+In Buri,อินทร์บุรี,TH1706,Sing Buri,สิงห์บุรี,TH17,Thailand,ประเทศไทย,TH
+Mueang Chai Nat,เมืองชัยนาท,TH1801,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Manorom,มโนรมย์,TH1802,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Wat Sing,วัดสิงห์,TH1803,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Sapphaya,สรรพยา,TH1804,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Sankhaburi,สรรคบุรี,TH1805,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Hankha,หันคา,TH1806,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Nong Mamong,หนองมะโมง,TH1807,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Noen Kham,เนินขาม,TH1808,Chai Nat,ชัยนาท,TH18,Thailand,ประเทศไทย,TH
+Mueang Saraburi,เมืองสระบุรี,TH1901,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Kaeng Khoi,แก่งคอย,TH1902,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Nong Khae,หนองแค,TH1903,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Wihan Daeng,วิหารแดง,TH1904,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Nong Saeng,หนองแซง,TH1905,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Ban Mo,บ้านหมอ,TH1906,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Don Phut,ดอนพุด,TH1907,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Nong Don,หนองโดน,TH1908,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Phra Phutthabat,พระพุทธบาท,TH1909,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Sao Hai,เสาไห้,TH1910,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Muak Lek,มวกเหล็ก,TH1911,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Wang Muang,วังม่วง,TH1912,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Chaloem Phra Kiat,เฉลิมพระเกียรติ,TH1913,Saraburi,สระบุรี,TH19,Thailand,ประเทศไทย,TH
+Mueang Chon Buri,เมืองชลบุรี,TH2001,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Ban Bueng,บ้านบึง,TH2002,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Nong Yai,หนองใหญ่,TH2003,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Bang Lamung,บางละมุง,TH2004,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Phan Thong,พานทอง,TH2005,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Phanat Nikhom,พนัสนิคม,TH2006,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Si Racha,ศรีราชา,TH2007,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Ko Si Chang,เกาะสีชัง,TH2008,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Sattahip,สัตหีบ,TH2009,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Bo Thong,บ่อทอง,TH2010,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Ko Chan,เกาะจันทร์,TH2011,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
+Mueang Rayong,เมืองระยอง,TH2101,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Ban Chang,บ้านฉาง,TH2102,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Klaeng,แกลง,TH2103,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Wang Chan,วังจันทร์,TH2104,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Ban Khai,บ้านค่าย,TH2105,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Pluak Daeng,ปลวกแดง,TH2106,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Khao Chamao,เขาชะเมา,TH2107,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Nikhom Phatthana,นิคมพัฒนา,TH2108,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
+Mueang Chanthaburi,เมืองจันทบุรี,TH2201,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Khlung,ขลุง,TH2202,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Tha Mai,ท่าใหม่,TH2203,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Pong Nam Ron,โป่งน้ำร้อน,TH2204,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Makham,มะขาม,TH2205,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Laem Sing,แหลมสิงห์,TH2206,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Soi Dao,สอยดาว,TH2207,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Kaeng Hang Maeo,แก่งหางแมว,TH2208,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Na Yai Am,นายายอาม,TH2209,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Khao Khitchakut,เขาคิชฌกูฏ,TH2210,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
+Mueang Trat,เมืองตราด,TH2301,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Khlong Yai,คลองใหญ่,TH2302,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Khao Saming,เขาสมิง,TH2303,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Bo Rai,บ่อไร่,TH2304,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Laem Ngop,แหลมงอบ,TH2305,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Ko Kut,เกาะกูด,TH2306,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Ko Chang,เกาะช้าง,TH2307,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
+Mueang Chachoengsao,เมืองฉะเชิงเทรา,TH2401,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Bang Khla,บางคล้า,TH2402,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Bang Nam Priao,บางน้ำเปรี้ยว,TH2403,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Bang Pakong,บางปะกง,TH2404,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Ban Pho,บ้านโพธิ์,TH2405,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Phanom Sarakham,พนมสารคาม,TH2406,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Ratchasan,ราชสาส์น,TH2407,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Sanam Chai Khet,สนามชัยเขต,TH2408,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Plaeng Yao,แปลงยาว,TH2409,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Tha Takiap,ท่าตะเกียบ,TH2410,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Khlong Khuean,คลองเขื่อน,TH2411,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
+Mueang Prachin Buri,เมืองปราจีนบุรี,TH2501,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Kabin Buri,กบินทร์บุรี,TH2502,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Na Di,นาดี,TH2503,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Ban Sang,บ้านสร้าง,TH2506,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Prachantakham,ประจันตคาม,TH2507,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Si Maha Phot,ศรีมหาโพธิ,TH2508,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Si Mahosot,ศรีมโหสถ,TH2509,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
+Mueang Nakhon Nayok,เมืองนครนายก,TH2601,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
+Pak Phli,ปากพลี,TH2602,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
+Ban Na,บ้านนา,TH2603,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
+Ongkharak,องครักษ์,TH2604,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
+Mueang Sa Kaeo,เมืองสระแก้ว,TH2701,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Khlong Hat,คลองหาด,TH2702,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Ta Phraya,ตาพระยา,TH2703,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Wang Nam Yen,วังน้ำเย็น,TH2704,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Watthana Nakhon,วัฒนานคร,TH2705,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Aranyaprathet,อรัญประเทศ,TH2706,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Khao Chakan,เขาฉกรรจ์,TH2707,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Khok Sung,โคกสูง,TH2708,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Wang Sombun,วังสมบูรณ์,TH2709,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+Mueang Nakhon Ratchasima,เมืองนครราชสีมา,TH3001,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Khon Buri,ครบุรี,TH3002,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Soeng Sang,เสิงสาง,TH3003,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Khong,คง,TH3004,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Ban Lueam,บ้านเหลื่อม,TH3005,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Chakkarat,จักราช,TH3006,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Chok Chai,โชคชัย,TH3007,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Dan Khun Thot,ด่านขุนทด,TH3008,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Non Thai,โนนไทย,TH3009,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Non Sung,โนนสูง,TH3010,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Kham Sakaesaeng,ขามสะแกแสง,TH3011,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Bua Yai,บัวใหญ่,TH3012,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Prathai,ประทาย,TH3013,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Pak Thong Chai,ปักธงชัย,TH3014,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Phimai,พิมาย,TH3015,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Huai Thalaeng,ห้วยแถลง,TH3016,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Chum Phuang,ชุมพวง,TH3017,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Sung Noen,สูงเนิน,TH3018,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Kham Thale So,ขามทะเลสอ,TH3019,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Sikhio,สีคิ้ว,TH3020,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Pak Chong,ปากช่อง,TH3021,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Nong Bun Mak,หนองบุญมาก,TH3022,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Kaeng Sanam Nang,แก้งสนามนาง,TH3023,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Non Daeng,โนนแดง,TH3024,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Wang Nam Khiao,วังน้ำเขียว,TH3025,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Thepharak,เทพารักษ์,TH3026,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Mueang Yang,เมืองยาง,TH3027,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Phra Thong Kham,พระทองคำ,TH3028,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Lam Thamenchai,ลำทะเมนชัย,TH3029,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Bua Lai,บัวลาย,TH3030,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Sida,สีดา,TH3031,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Chaloem Phra Kiat,เฉลิมพระเกียรติ,TH3032,Nakhon Ratchasima,นครราชสีมา,TH30,Thailand,ประเทศไทย,TH
+Mueang Buri Ram,เมืองบุรีรัมย์,TH3101,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Khu Mueang,คูเมือง,TH3102,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Krasang,กระสัง,TH3103,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Nang Rong,นางรอง,TH3104,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Nong Ki,หนองกี่,TH3105,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Lahan Sai,ละหานทราย,TH3106,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Prakhon Chai,ประโคนชัย,TH3107,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Ban Kruat,บ้านกรวด,TH3108,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Phutthaisong,พุทไธสง,TH3109,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Lam Plai Mat,ลำปลายมาศ,TH3110,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Satuek,สตึก,TH3111,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Pakham,ปะคำ,TH3112,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Na Pho,นาโพธิ์,TH3113,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Nong Hong,หนองหงส์,TH3114,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Phlapphla Chai,พลับพลาชัย,TH3115,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Huai Rat,ห้วยราช,TH3116,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Non Suwan,โนนสุวรรณ,TH3117,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Chamni,ชำนิ,TH3118,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Ban Mai Chaiyaphot,บ้านใหม่ไชยพจน์,TH3119,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Non Din Daeng,โนนดินแดง,TH3120,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Ban Dan,บ้านด่าน,TH3121,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Khaen Dong,แคนดง,TH3122,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Chaloem Phra Kiat,เฉลิมพระเกียรติ,TH3123,Buri Ram,บุรีรัมย์,TH31,Thailand,ประเทศไทย,TH
+Mueang Surin,เมืองสุรินทร์,TH3201,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Chumphon Buri,ชุมพลบุรี,TH3202,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Tha Tum,ท่าตูม,TH3203,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Chom Phra,จอมพระ,TH3204,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Prasat,ปราสาท,TH3205,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Kap Choeng,กาบเชิง,TH3206,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Rattanaburi,รัตนบุรี,TH3207,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Sanom,สนม,TH3208,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Sikhoraphum,ศีขรภูมิ,TH3209,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Sangkha,สังขะ,TH3210,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Lamduan,ลำดวน,TH3211,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Samrong Thap,สำโรงทาบ,TH3212,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Buachet,บัวเชด,TH3213,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Phanom Dong Rak,พนมดงรัก,TH3214,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Si Narong,ศรีณรงค์,TH3215,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Khwao Sin Rin,เขวาสินรินทร์,TH3216,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Non Narai,โนนนารายณ์,TH3217,Surin,สุรินทร์,TH32,Thailand,ประเทศไทย,TH
+Mueang Si Sa Ket,เมืองศรีสะเกษ,TH3301,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Yang Chum Noi,ยางชุมน้อย,TH3302,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Kanthararom,กันทรารมย์,TH3303,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Kantharalak,กันทรลักษ์,TH3304,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Khukhan,ขุขันธ์,TH3305,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Phrai Bueng,ไพรบึง,TH3306,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Prang Ku,ปรางค์กู่,TH3307,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Khun Han,ขุนหาญ,TH3308,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Rasi Salai,ราษีไศล,TH3309,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Uthumphon Phisai,อุทุมพรพิสัย,TH3310,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Bueng Bun,บึงบูรพ์,TH3311,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Huai Thap Than,ห้วยทับทัน,TH3312,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Non Khun,โนนคูณ,TH3313,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Si Rattana,ศรีรัตนะ,TH3314,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Nam Kliang,น้ำเกลี้ยง,TH3315,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Wang Hin,วังหิน,TH3316,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Phu Sing,ภูสิงห์,TH3317,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Mueang Chan,เมืองจันทร์,TH3318,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Benchalak,เบญจลักษ์,TH3319,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Phayu,พยุห์,TH3320,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Pho Si Suwan,โพธิ์ศรีสุวรรณ,TH3321,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Sila Lat,ศิลาลาด,TH3322,Si Sa Ket,ศรีสะเกษ,TH33,Thailand,ประเทศไทย,TH
+Mueang Ubon Ratchathani,เมืองอุบลราชธานี,TH3401,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Si Mueang Mai,ศรีเมืองใหม่,TH3402,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Khong Chiam,โขงเจียม,TH3403,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Khueang Nai,เขื่องใน,TH3404,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Khemarat,เขมราฐ,TH3405,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Det Udom,เดชอุดม,TH3407,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Na Chaluai,นาจะหลวย,TH3408,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Nam Yuen,น้ำยืน,TH3409,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Buntharik,บุณฑริก,TH3410,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Trakan Phuet Phon,ตระการพืชผล,TH3411,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Kut Khaopun,กุดข้าวปุ้น,TH3412,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Muang Sam Sip,ม่วงสามสิบ,TH3414,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Warin Chamrap,วารินชำราบ,TH3415,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Phibun Mangsahan,พิบูลมังสาหาร,TH3419,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Tan Sum,ตาลสุม,TH3420,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Pho Sai,โพธิ์ไทร,TH3421,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Samrong,สำโรง,TH3422,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Don Mot Daeng,ดอนมดแดง,TH3424,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Sirindhorn,สิรินธร,TH3425,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Thung Si Udom,ทุ่งศรีอุดม,TH3426,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Na Yia,นาเยีย,TH3429,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Na Tan,นาตาล,TH3430,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Lao Suea Kok,เหล่าเสือโก้ก,TH3431,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Sawang Wirawong,สว่างวีระวงศ์,TH3432,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Nam Khun,น้ำขุ่น,TH3433,Ubon Ratchathani,อุบลราชธานี,TH34,Thailand,ประเทศไทย,TH
+Mueang Yasothon,เมืองยโสธร,TH3501,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Sai Mun,ทรายมูล,TH3502,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Kut Chum,กุดชุม,TH3503,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Kham Khuean Kaeo,คำเขื่อนแก้ว,TH3504,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Pa Tio,ป่าติ้ว,TH3505,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Maha Chana Chai,มหาชนะชัย,TH3506,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Kho Wang,ค้อวัง,TH3507,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Loeng Nok Tha,เลิงนกทา,TH3508,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Thai Charoen,ไทยเจริญ,TH3509,Yasothon,ยโสธร,TH35,Thailand,ประเทศไทย,TH
+Mueang Chaiyaphum,เมืองชัยภูมิ,TH3601,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Ban Khwao,บ้านเขว้า,TH3602,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Khon Sawan,คอนสวรรค์,TH3603,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Kaset Sombun,เกษตรสมบูรณ์,TH3604,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Nong Bua Daeng,หนองบัวแดง,TH3605,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Chatturat,จัตุรัส,TH3606,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Bamnet Narong,บำเหน็จณรงค์,TH3607,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Nong Bua Rawe,หนองบัวระเหว,TH3608,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Thep Sathit,เทพสถิต,TH3609,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Phu Khiao,ภูเขียว,TH3610,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Ban Thaen,บ้านแท่น,TH3611,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Kaeng Khro,แก้งคร้อ,TH3612,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Khon San,คอนสาร,TH3613,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Phakdi Chumphon,ภักดีชุมพล,TH3614,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Noen Sa-Nga,เนินสง่า,TH3615,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Sap Yai,ซับใหญ่,TH3616,Chaiyaphum,ชัยภูมิ,TH36,Thailand,ประเทศไทย,TH
+Mueang Amnat Charoen,เมืองอำนาจเจริญ,TH3701,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Chanuman,ชานุมาน,TH3702,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Pathum Ratchawongsa,ปทุมราชวงศา,TH3703,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Phana,พนา,TH3704,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Senangkhanikhom,เสนางคนิคม,TH3705,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Hua Taphan,หัวตะพาน,TH3706,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Lue Amnat,ลืออำนาจ,TH3707,Amnat Charoen,อำนาจเจริญ,TH37,Thailand,ประเทศไทย,TH
+Mueang Bueng Kan,เมืองบึงกาฬ,TH3801,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Phon Charoen,พรเจริญ,TH3802,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+So Phisai,โซ่พิสัย,TH3803,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Seka,เซกา,TH3804,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Pak Khat,ปากคาด,TH3805,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Bueng Khong Long,บึงโขงหลง,TH3806,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Si Wilai,ศรีวิไล,TH3807,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Bung Khla,บุ่งคล้า,TH3808,Bueng Kan,บึงกาฬ,TH38,Thailand,ประเทศไทย,TH
+Mueang Nong Bua Lam Phu,เมืองหนองบัวลำภู,TH3901,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Na Klang,นากลาง,TH3902,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Non Sang,โนนสัง,TH3903,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Si Bun Rueang,ศรีบุญเรือง,TH3904,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Suwannakhuha,สุวรรณคูหา,TH3905,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Na Wang,นาวัง,TH3906,Nong Bua Lam Phu,หนองบัวลำภู,TH39,Thailand,ประเทศไทย,TH
+Mueang Khon Kaen,เมืองขอนแก่น,TH4001,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Ban Fang,บ้านฝาง,TH4002,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Phra Yuen,พระยืน,TH4003,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Nong Ruea,หนองเรือ,TH4004,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Chum Phae,ชุมแพ,TH4005,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Si Chomphu,สีชมพู,TH4006,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Nam Phong,น้ำพอง,TH4007,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Ubolratana,อุบลรัตน์,TH4008,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Kranuan,กระนวน,TH4009,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Ban Phai,บ้านไผ่,TH4010,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Pueai Noi,เปือยน้อย,TH4011,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Phon,พล,TH4012,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Waeng Yai,แวงใหญ่,TH4013,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Waeng Noi,แวงน้อย,TH4014,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Nong Song Hong,หนองสองห้อง,TH4015,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Phu Wiang,ภูเวียง,TH4016,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Mancha Khiri,มัญจาคีรี,TH4017,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Chonnabot,ชนบท,TH4018,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Khao Suan Kwang,เขาสวนกวาง,TH4019,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Phu Pha Man,ภูผาม่าน,TH4020,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Sam Sung,ซำสูง,TH4021,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Khok Pho Chai,โคกโพธิ์ไชย,TH4022,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Nong Na Kham,หนองนาคำ,TH4023,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Ban Haet,บ้านแฮด,TH4024,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Non Sila,โนนศิลา,TH4025,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Wiang Kao,เวียงเก่า,TH4029,Khon Kaen,ขอนแก่น,TH40,Thailand,ประเทศไทย,TH
+Mueang Udon Thani,เมืองอุดรธานี,TH4101,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Kut Chap,กุดจับ,TH4102,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Nong Wua So,หนองวัวซอ,TH4103,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Kumphawapi,กุมภวาปี,TH4104,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Non Sa-At,โนนสะอาด,TH4105,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Nong Han,หนองหาน,TH4106,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Thung Fon,ทุ่งฝน,TH4107,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Chai Wan,ไชยวาน,TH4108,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Si That,ศรีธาตุ,TH4109,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Wang Sam Mo,วังสามหมอ,TH4110,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Ban Dung,บ้านดุง,TH4111,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Ban Phue,บ้านผือ,TH4117,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Nam Som,น้ำโสม,TH4118,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Phen,เพ็ญ,TH4119,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Sang Khom,สร้างคอม,TH4120,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Nong Saeng,หนองแสง,TH4121,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Na Yung,นายูง,TH4122,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Phibun Rak,พิบูลย์รักษ์,TH4123,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Ku Kaeo,กู่แก้ว,TH4124,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Prachaksinlapakhom,ประจักษ์ศิลปาคม,TH4125,Udon Thani,อุดรธานี,TH41,Thailand,ประเทศไทย,TH
+Mueang Loei,เมืองเลย,TH4201,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Na Duang,นาด้วง,TH4202,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Chiang Khan,เชียงคาน,TH4203,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Pak Chom,ปากชม,TH4204,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Dan Sai,ด่านซ้าย,TH4205,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Na Haeo,นาแห้ว,TH4206,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Phu Ruea,ภูเรือ,TH4207,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Tha Li,ท่าลี่,TH4208,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Wang Saphung,วังสะพุง,TH4209,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Phu Kradueng,ภูกระดึง,TH4210,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Phu Luang,ภูหลวง,TH4211,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Pha Khao,ผาขาว,TH4212,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Erawan,เอราวัณ,TH4213,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Nong Hin,หนองหิน,TH4214,Loei,เลย,TH42,Thailand,ประเทศไทย,TH
+Mueang Nong Khai,เมืองหนองคาย,TH4301,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Tha Bo,ท่าบ่อ,TH4302,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Phon Phisai,โพนพิสัย,TH4305,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Si Chiang Mai,ศรีเชียงใหม่,TH4307,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Sangkhom,สังคม,TH4308,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Sakhrai,สระใคร,TH4314,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Fao Rai,เฝ้าไร่,TH4315,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Rattanawapi,รัตนวาปี,TH4316,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Pho Tak,โพธิ์ตาก,TH4317,Nong Khai,หนองคาย,TH43,Thailand,ประเทศไทย,TH
+Mueang Maha Sarakham,เมืองมหาสารคาม,TH4401,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Kae Dam,แกดำ,TH4402,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Kosum Phisai,โกสุมพิสัย,TH4403,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Kantharawichai,กันทรวิชัย,TH4404,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Chiang Yuen,เชียงยืน,TH4405,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Borabue,บรบือ,TH4406,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Na Chueak,นาเชือก,TH4407,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Phayakkhaphum Phisai,พยัคฆภูมิพิสัย,TH4408,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Wapi Pathum,วาปีปทุม,TH4409,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Na Dun,นาดูน,TH4410,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Yang Sisurat,ยางสีสุราช,TH4411,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Kut Rang,กุดรัง,TH4412,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Chuen Chom,ชื่นชม,TH4413,Maha Sarakham,มหาสารคาม,TH44,Thailand,ประเทศไทย,TH
+Mueang Roi Et,เมืองร้อยเอ็ด,TH4501,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Kaset Wisai,เกษตรวิสัย,TH4502,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Pathum Rat,ปทุมรัตต์,TH4503,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Chaturaphak Phiman,จตุรพักตรพิมาน,TH4504,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Thawat Buri,ธวัชบุรี,TH4505,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Phanom Phrai,พนมไพร,TH4506,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Phon Thong,โพนทอง,TH4507,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Pho Chai,โพธิ์ชัย,TH4508,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Nong Phok,หนองพอก,TH4509,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Selaphum,เสลภูมิ,TH4510,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Suwannaphum,สุวรรณภูมิ,TH4511,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Mueang Suang,เมืองสรวง,TH4512,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Phon Sai,โพนทราย,TH4513,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+At Samat,อาจสามารถ,TH4514,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Moei Wadi,เมยวดี,TH4515,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Si Somdet,ศรีสมเด็จ,TH4516,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Changhan,จังหาร,TH4517,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Chiang Khwan,เชียงขวัญ,TH4518,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Nong Hi,หนองฮี,TH4519,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Thung Khao Luang,ทุ่งเขาหลวง,TH4520,Roi Et,ร้อยเอ็ด,TH45,Thailand,ประเทศไทย,TH
+Mueang Kalasin,เมืองกาฬสินธุ์,TH4601,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Na Mon,นามน,TH4602,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Kamalasai,กมลาไสย,TH4603,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Rong Kham,ร่องคำ,TH4604,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Kuchinarai,กุฉินารายณ์,TH4605,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Khao Wong,เขาวง,TH4606,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Yang Talat,ยางตลาด,TH4607,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Huai Mek,ห้วยเม็ก,TH4608,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Sahatsakhan,สหัสขันธ์,TH4609,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Kham Muang,คำม่วง,TH4610,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Tha Khantho,ท่าคันโท,TH4611,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Nong Kung Si,หนองกุงศรี,TH4612,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Somdet,สมเด็จ,TH4613,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Huai Phueng,ห้วยผึ้ง,TH4614,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Sam Chai,สามชัย,TH4615,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Na Khu,นาคู,TH4616,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Don Chan,ดอนจาน,TH4617,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Khong Chai,ฆ้องชัย,TH4618,Kalasin,กาฬสินธุ์,TH46,Thailand,ประเทศไทย,TH
+Mueang Sakon Nakhon,เมืองสกลนคร,TH4701,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Kusuman,กุสุมาลย์,TH4702,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Kut Bak,กุดบาก,TH4703,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Phanna Nikhom,พรรณานิคม,TH4704,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Phang Khon,พังโคน,TH4705,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Waritchaphum,วาริชภูมิ,TH4706,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Nikhom Nam Un,นิคมน้ำอูน,TH4707,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Wanon Niwat,วานรนิวาส,TH4708,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Kham Ta Kla,คำตากล้า,TH4709,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Ban Muang,บ้านม่วง,TH4710,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Akat Amnuai,อากาศอำนวย,TH4711,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Sawang Daen Din,สว่างแดนดิน,TH4712,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Song Dao,ส่องดาว,TH4713,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Tao Ngoi,เต่างอย,TH4714,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Khok Si Suphan,โคกศรีสุพรรณ,TH4715,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Charoen Sin,เจริญศิลป์,TH4716,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Phon Na Kaeo,โพนนาแก้ว,TH4717,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Phu Phan,ภูพาน,TH4718,Sakon Nakhon,สกลนคร,TH47,Thailand,ประเทศไทย,TH
+Mueang Nakhon Phanom,เมืองนครพนม,TH4801,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Pla Pak,ปลาปาก,TH4802,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Tha Uthen,ท่าอุเทน,TH4803,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Ban Phaeng,บ้านแพง,TH4804,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+That Phanom,ธาตุพนม,TH4805,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Renu Nakhon,เรณูนคร,TH4806,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Na Kae,นาแก,TH4807,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Si Songkhram,ศรีสงคราม,TH4808,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Na Wa,นาหว้า,TH4809,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Phon Sawan,โพนสวรรค์,TH4810,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Na Thom,นาทม,TH4811,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Wang Yang,วังยาง,TH4812,Nakhon Phanom,นครพนม,TH48,Thailand,ประเทศไทย,TH
+Mueang Mukdahan,เมืองมุกดาหาร,TH4901,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Nikhom Kham Soi,นิคมคำสร้อย,TH4902,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Don Tan,ดอนตาล,TH4903,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Dong Luang,ดงหลวง,TH4904,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Khamcha-I,คำชะอี,TH4905,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Wan Yai,หว้านใหญ่,TH4906,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Nong Sung,หนองสูง,TH4907,Mukdahan,มุกดาหาร,TH49,Thailand,ประเทศไทย,TH
+Mueang Chiang Mai,เมืองเชียงใหม่,TH5001,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Chom Thong,จอมทอง,TH5002,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae Chaem,แม่แจ่ม,TH5003,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Chiang Dao,เชียงดาว,TH5004,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Doi Saket,ดอยสะเก็ด,TH5005,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae Taeng,แม่แตง,TH5006,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae Rim,แม่ริม,TH5007,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Samoeng,สะเมิง,TH5008,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Fang,ฝาง,TH5009,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae Ai,แม่อาย,TH5010,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Phrao,พร้าว,TH5011,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+San Pa Tong,สันป่าตอง,TH5012,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+San Kamphaeng,สันกำแพง,TH5013,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+San Sai,สันทราย,TH5014,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Hang Dong,หางดง,TH5015,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Hot,ฮอด,TH5016,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Doi Tao,ดอยเต่า,TH5017,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Omkoi,อมก๋อย,TH5018,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Saraphi,สารภี,TH5019,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Wiang Haeng,เวียงแหง,TH5020,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Chai Prakan,ไชยปราการ,TH5021,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae Wang,แม่วาง,TH5022,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mae On,แม่ออน,TH5023,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Doi Lo,ดอยหล่อ,TH5024,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Galyani Vadhana,กัลยาณิวัฒนา,TH5025,Chiang Mai,เชียงใหม่,TH50,Thailand,ประเทศไทย,TH
+Mueang Lamphun,เมืองลำพูน,TH5101,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Mae Tha,แม่ทา,TH5102,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Ban Hong,บ้านโฮ่ง,TH5103,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Li,ลี้,TH5104,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Thung Hua Chang,ทุ่งหัวช้าง,TH5105,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Pa Sang,ป่าซาง,TH5106,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Ban Thi,บ้านธิ,TH5107,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Wiang Nong Long,เวียงหนองล่อง,TH5108,Lamphun,ลำพูน,TH51,Thailand,ประเทศไทย,TH
+Mueang Lampang,เมืองลำปาง,TH5201,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Mae Mo,แม่เมาะ,TH5202,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Ko Kha,เกาะคา,TH5203,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Soem Ngam,เสริมงาม,TH5204,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Ngao,งาว,TH5205,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Chae Hom,แจ้ห่ม,TH5206,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Wang Nuea,วังเหนือ,TH5207,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Thoen,เถิน,TH5208,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Mae Phrik,แม่พริก,TH5209,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Mae Tha,แม่ทะ,TH5210,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Sop Prap,สบปราบ,TH5211,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Hang Chat,ห้างฉัตร,TH5212,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Mueang Pan,เมืองปาน,TH5213,Lampang,ลำปาง,TH52,Thailand,ประเทศไทย,TH
+Mueang Uttaradit,เมืองอุตรดิตถ์,TH5301,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Tron,ตรอน,TH5302,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Tha Pla,ท่าปลา,TH5303,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Nam Pat,น้ำปาด,TH5304,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Fak Tha,ฟากท่า,TH5305,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Ban Khok,บ้านโคก,TH5306,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Phichai,พิชัย,TH5307,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Laplae,ลับแล,TH5308,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Thong Saen Khan,ทองแสนขัน,TH5309,Uttaradit,อุตรดิตถ์,TH53,Thailand,ประเทศไทย,TH
+Mueang Phrae,เมืองแพร่,TH5401,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Rong Kwang,ร้องกวาง,TH5402,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Long,ลอง,TH5403,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Sung Men,สูงเม่น,TH5404,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Den Chai,เด่นชัย,TH5405,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Song,สอง,TH5406,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Wang Chin,วังชิ้น,TH5407,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Nong Muang Khai,หนองม่วงไข่,TH5408,Phrae,แพร่,TH54,Thailand,ประเทศไทย,TH
+Mueang Nan,เมืองน่าน,TH5501,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Mae Charim,แม่จริม,TH5502,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Ban Luang,บ้านหลวง,TH5503,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Na Noi,นาน้อย,TH5504,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Pua,ปัว,TH5505,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Tha Wang Pha,ท่าวังผา,TH5506,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Wiang Sa,เวียงสา,TH5507,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Thung Chang,ทุ่งช้าง,TH5508,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Chiang Klang,เชียงกลาง,TH5509,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Na Muen,นาหมื่น,TH5510,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Santi Suk,สันติสุข,TH5511,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Bo Kluea,บ่อเกลือ,TH5512,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Song Khwae,สองแคว,TH5513,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Phu Phiang,ภูเพียง,TH5514,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Chaloem Phra Kiat,เฉลิมพระเกียรติ,TH5515,Nan,น่าน,TH55,Thailand,ประเทศไทย,TH
+Mueang Phayao,เมืองพะเยา,TH5601,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Chun,จุน,TH5602,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Chiang Kham,เชียงคำ,TH5603,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Chiang Muan,เชียงม่วน,TH5604,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Dok Khamtai,ดอกคำใต้,TH5605,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Pong,ปง,TH5606,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Mae Chai,แม่ใจ,TH5607,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Phu Sang,ภูซาง,TH5608,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Phu Kamyao,ภูกามยาว,TH5609,Phayao,พะเยา,TH56,Thailand,ประเทศไทย,TH
+Mueang Chiang Rai,เมืองเชียงราย,TH5701,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Wiang Chai,เวียงชัย,TH5702,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Chiang Khong,เชียงของ,TH5703,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Thoeng,เทิง,TH5704,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Phan,พาน,TH5705,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Pa Daet,ป่าแดด,TH5706,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mae Chan,แม่จัน,TH5707,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Chiang Saen,เชียงแสน,TH5708,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mae Sai,แม่สาย,TH5709,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mae Suai,แม่สรวย,TH5710,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Wiang Pa Pao,เวียงป่าเป้า,TH5711,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Phaya Mengrai,พญาเม็งราย,TH5712,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Wiang Kaen,เวียงแก่น,TH5713,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Khun Tan,ขุนตาล,TH5714,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mae Fa Luang,แม่ฟ้าหลวง,TH5715,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mae Lao,แม่ลาว,TH5716,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Wiang Chiang Rung,เวียงเชียงรุ้ง,TH5717,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Doi Luang,ดอยหลวง,TH5718,Chiang Rai,เชียงราย,TH57,Thailand,ประเทศไทย,TH
+Mueang Mae Hong Son,เมืองแม่ฮ่องสอน,TH5801,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Khun Yuam,ขุนยวม,TH5802,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Pai,ปาย,TH5803,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Mae Sariang,แม่สะเรียง,TH5804,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Mae La Noi,แม่ลาน้อย,TH5805,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Sop Moei,สบเมย,TH5806,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Pang Mapha,ปางมะผ้า,TH5807,Mae Hong Son,แม่ฮ่องสอน,TH58,Thailand,ประเทศไทย,TH
+Mueang Nakhon Sawan,เมืองนครสวรรค์,TH6001,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Krok Phra,โกรกพระ,TH6002,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Chum Saeng,ชุมแสง,TH6003,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Nong Bua,หนองบัว,TH6004,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Banphot Phisai,บรรพตพิสัย,TH6005,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Kao Liao,เก้าเลี้ยว,TH6006,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Takhli,ตาคลี,TH6007,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Tha Tako,ท่าตะโก,TH6008,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Phaisali,ไพศาลี,TH6009,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Phayuha Khiri,พยุหะคีรี,TH6010,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Lat Yao,ลาดยาว,TH6011,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Tak Fa,ตากฟ้า,TH6012,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Mae Wong,แม่วงก์,TH6013,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Mae Poen,แม่เปิน,TH6014,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Chum Ta Bong,ชุมตาบง,TH6015,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
+Mueang Uthai Thani,เมืองอุทัยธานี,TH6101,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Thap Than,ทัพทัน,TH6102,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Sawang Arom,สว่างอารมณ์,TH6103,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Nong Chang,หนองฉาง,TH6104,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Nong Khayang,หนองขาหย่าง,TH6105,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Ban Rai,บ้านไร่,TH6106,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Lan Sak,ลานสัก,TH6107,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Huai Khot,ห้วยคต,TH6108,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
+Mueang Kamphaeng Phet,เมืองกำแพงเพชร,TH6201,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Sai Ngam,ไทรงาม,TH6202,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Khlong Lan,คลองลาน,TH6203,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Khanu Woralaksaburi,ขาณุวรลักษบุรี,TH6204,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Khlong Khlung,คลองขลุง,TH6205,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Phran Kratai,พรานกระต่าย,TH6206,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Lan Krabue,ลานกระบือ,TH6207,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Sai Thong Watthana,ทรายทองวัฒนา,TH6208,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Pang Sila Thong,ปางศิลาทอง,TH6209,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Bueng Samakkhi,บึงสามัคคี,TH6210,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Kosamphi Nakhon,โกสัมพีนคร,TH6211,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
+Mueang Tak,เมืองตาก,TH6301,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Ban Tak,บ้านตาก,TH6302,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Sam Ngao,สามเงา,TH6303,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Mae Ramat,แม่ระมาด,TH6304,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Tha Song Yang,ท่าสองยาง,TH6305,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Mae Sot,แม่สอด,TH6306,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Phop Phra,พบพระ,TH6307,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Umphang,อุ้มผาง,TH6308,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Wang Chao,วังเจ้า,TH6309,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
+Mueang Sukhothai,เมืองสุโขทัย,TH6401,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Ban Dan Lan Hoi,บ้านด่านลานหอย,TH6402,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Khiri Mat,คีรีมาศ,TH6403,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Kong Krailat,กงไกรลาศ,TH6404,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Si Satchanalai,ศรีสัชนาลัย,TH6405,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Si Samrong,ศรีสำโรง,TH6406,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Sawankhalok,สวรรคโลก,TH6407,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Si Nakhon,ศรีนคร,TH6408,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Thung Saliam,ทุ่งเสลี่ยม,TH6409,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
+Mueang Phitsanulok,เมืองพิษณุโลก,TH6501,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Nakhon Thai,นครไทย,TH6502,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Chat Trakan,ชาติตระการ,TH6503,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Bang Rakam,บางระกำ,TH6504,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Bang Krathum,บางกระทุ่ม,TH6505,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Phrom Phiram,พรหมพิราม,TH6506,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Wat Bot,วัดโบสถ์,TH6507,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Wang Thong,วังทอง,TH6508,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Noen Maprang,เนินมะปราง,TH6509,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
+Mueang Phichit,เมืองพิจิตร,TH6601,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Wang Sai Phun,วังทรายพูน,TH6602,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Pho Prathap Chang,โพธิ์ประทับช้าง,TH6603,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Taphan Hin,ตะพานหิน,TH6604,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Bang Mun Nak,บางมูลนาก,TH6605,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Pho Thale,โพทะเล,TH6606,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Sam Ngam,สามง่าม,TH6607,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Tap Khlo,ทับคล้อ,TH6608,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Sak Lek,สากเหล็ก,TH6609,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Bueng Na Rang,บึงนาราง,TH6610,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Dong Charoen,ดงเจริญ,TH6611,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Wachirabarami,วชิรบารมี,TH6612,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
+Mueang Phetchabun,เมืองเพชรบูรณ์,TH6701,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Chon Daen,ชนแดน,TH6702,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Lom Sak,หล่มสัก,TH6703,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Lom Kao,หล่มเก่า,TH6704,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Wichian Buri,วิเชียรบุรี,TH6705,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Si Thep,ศรีเทพ,TH6706,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Nong Phai,หนองไผ่,TH6707,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Bueng Sam Phan,บึงสามพัน,TH6708,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Nam Nao,น้ำหนาว,TH6709,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Wang Pong,วังโป่ง,TH6710,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Khao Kho,เขาค้อ,TH6711,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+Mueang Ratchaburi,เมืองราชบุรี,TH7001,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Chom Bueng,จอมบึง,TH7002,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Suan Phueng,สวนผึ้ง,TH7003,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Damnoen Saduak,ดำเนินสะดวก,TH7004,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Ban Pong,บ้านโป่ง,TH7005,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Bang Phae,บางแพ,TH7006,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Photharam,โพธาราม,TH7007,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Pak Tho,ปากท่อ,TH7008,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Wat Phleng,วัดเพลง,TH7009,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Ban Kha,บ้านคา,TH7010,Ratchaburi,ราชบุรี,TH70,Thailand,ประเทศไทย,TH
+Mueang Kanchanaburi,เมืองกาญจนบุรี,TH7101,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Sai Yok,ไทรโยค,TH7102,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Bo Phloi,บ่อพลอย,TH7103,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Si Sawat,ศรีสวัสดิ์,TH7104,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Tha Maka,ท่ามะกา,TH7105,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Tha Muang,ท่าม่วง,TH7106,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Thong Pha Phum,ทองผาภูมิ,TH7107,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Sangkhla Buri,สังขละบุรี,TH7108,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Phanom Thuan,พนมทวน,TH7109,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Lao Khwan,เลาขวัญ,TH7110,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Dan Makham Tia,ด่านมะขามเตี้ย,TH7111,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Nong Prue,หนองปรือ,TH7112,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Huai Krachao,ห้วยกระเจา,TH7113,Kanchanaburi,กาญจนบุรี,TH71,Thailand,ประเทศไทย,TH
+Mueang Suphan Buri,เมืองสุพรรณบุรี,TH7201,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Doem Bang Nang Buat,เดิมบางนางบวช,TH7202,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Dan Chang,ด่านช้าง,TH7203,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Bang Pla Ma,บางปลาม้า,TH7204,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Si Prachan,ศรีประจันต์,TH7205,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Don Chedi,ดอนเจดีย์,TH7206,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Song Phi Nong,สองพี่น้อง,TH7207,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Sam Chuk,สามชุก,TH7208,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+U Thong,อู่ทอง,TH7209,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Nong Ya Sai,หนองหญ้าไซ,TH7210,Suphan Buri,สุพรรณบุรี,TH72,Thailand,ประเทศไทย,TH
+Mueang Nakhon Pathom,เมืองนครปฐม,TH7301,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Kamphaeng Saen,กำแพงแสน,TH7302,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Nakhon Chai Si,นครชัยศรี,TH7303,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Don Tum,ดอนตูม,TH7304,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Bang Len,บางเลน,TH7305,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Sam Phran,สามพราน,TH7306,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Phutthamonthon,พุทธมณฑล,TH7307,Nakhon Pathom,นครปฐม,TH73,Thailand,ประเทศไทย,TH
+Mueang Samut Sakhon,เมืองสมุทรสาคร,TH7401,Samut Sakhon,สมุทรสาคร,TH74,Thailand,ประเทศไทย,TH
+Krathum Baen,กระทุ่มแบน,TH7402,Samut Sakhon,สมุทรสาคร,TH74,Thailand,ประเทศไทย,TH
+Ban Phaeo,บ้านแพ้ว,TH7403,Samut Sakhon,สมุทรสาคร,TH74,Thailand,ประเทศไทย,TH
+Mueang Samut Songkhram,เมืองสมุทรสงคราม,TH7501,Samut Songkhram,สมุทรสงคราม,TH75,Thailand,ประเทศไทย,TH
+Bang Khonthi,บางคนที,TH7502,Samut Songkhram,สมุทรสงคราม,TH75,Thailand,ประเทศไทย,TH
+Amphawa,อัมพวา,TH7503,Samut Songkhram,สมุทรสงคราม,TH75,Thailand,ประเทศไทย,TH
+Mueang Phetchaburi,เมืองเพชรบุรี,TH7601,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Khao Yoi,เขาย้อย,TH7602,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Nong Ya Plong,หนองหญ้าปล้อง,TH7603,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Cha-Am,ชะอำ,TH7604,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Tha Yang,ท่ายาง,TH7605,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Ban Lat,บ้านลาด,TH7606,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Ban Laem,บ้านแหลม,TH7607,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Kaeng Krachan,แก่งกระจาน,TH7608,Phetchaburi,เพชรบุรี,TH76,Thailand,ประเทศไทย,TH
+Mueang Prachuap Khiri Khan,เมืองประจวบคีรีข,TH7701,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Kui Buri,กุยบุรี,TH7702,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Thap Sakae,ทับสะแก,TH7703,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Bang Saphan,บางสะพาน,TH7704,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Bang Saphan Noi,บางสะพานน้อย,TH7705,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Pran Buri,ปราณบุรี,TH7706,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Hua Hin,หัวหิน,TH7707,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Sam Roi Yot,สามร้อยยอด,TH7708,Prachuap Khiri Khan,ประจวบคีรีขันธ์,TH77,Thailand,ประเทศไทย,TH
+Mueang Nakhon Si Thammarat,นครศรีธรรมราช,TH8001,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Phrom Khiri,พรหมคีรี,TH8002,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Lan Saka,ลานสกา,TH8003,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Chawang,ฉวาง,TH8004,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Phipun,พิปูน,TH8005,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Chian Yai,เชียรใหญ่,TH8006,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Cha-Uat,ชะอวด,TH8007,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Tha Sala,ท่าศาลา,TH8008,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Thung Song,ทุ่งสง,TH8009,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Na Bon,นาบอน,TH8010,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Thung Yai,ทุ่งใหญ่,TH8011,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Pak Phanang,ปากพนัง,TH8012,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Ron Phibun,ร่อนพิบูลย์,TH8013,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Sichon,สิชล,TH8014,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Khanom,ขนอม,TH8015,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Hua Sai,หัวไทร,TH8016,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Bang Khan,บางขัน,TH8017,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Tham Phannara,ถ้ำพรรณรา,TH8018,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Chulabhorn,จุฬาภรณ์,TH8019,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Phra Phrom,พระพรหม,TH8020,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Nopphitam,นบพิตำ,TH8021,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Chang Klang,ช้างกลาง,TH8022,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Chaloem Phra Kiat,เฉลิมพระเกียรติ,TH8023,Nakhon Si Thammarat,นครศรีธรรมราช,TH80,Thailand,ประเทศไทย,TH
+Mueang Krabi,เมืองกระบี่,TH8101,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Khao Phanom,เขาพนม,TH8102,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Ko Lanta,เกาะลันตา,TH8103,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Khlong Thom,คลองท่อม,TH8104,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Ao Luek,อ่าวลึก,TH8105,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Plai Phraya,ปลายพระยา,TH8106,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Lam Thap,ลำทับ,TH8107,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Nuea Khlong,เหนือคลอง,TH8108,Krabi,กระบี่,TH81,Thailand,ประเทศไทย,TH
+Mueang Phangnga,เมืองพังงา,TH8201,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Ko Yao,เกาะยาว,TH8202,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Kapong,กะปง,TH8203,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Takua Thung,ตะกั่วทุ่ง,TH8204,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Takua Pa,ตะกั่วป่า,TH8205,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Khura Buri,คุระบุรี,TH8206,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Thap Put,ทับปุด,TH8207,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Thai Mueang,ท้ายเหมือง,TH8208,Phangnga,พังงา,TH82,Thailand,ประเทศไทย,TH
+Mueang Phuket,เมืองภูเก็ต,TH8301,Phuket,ภูเก็ต,TH83,Thailand,ประเทศไทย,TH
+Kathu,กะทู้,TH8302,Phuket,ภูเก็ต,TH83,Thailand,ประเทศไทย,TH
+Thalang,ถลาง,TH8303,Phuket,ภูเก็ต,TH83,Thailand,ประเทศไทย,TH
+Mueang Surat Thani,เมืองสุราษฎร์ธาน,TH8401,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Kanchanadit,กาญจนดิษฐ์,TH8402,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Don Sak,ดอนสัก,TH8403,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Ko Samui,เกาะสมุย,TH8404,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Ko Pha-Ngan,เกาะพะงัน,TH8405,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Chaiya,ไชยา,TH8406,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Tha Chana,ท่าชนะ,TH8407,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Khiri Rat Nikhom,คีรีรัฐนิคม,TH8408,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Ban Ta Khun,บ้านตาขุน,TH8409,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Phanom,พนม,TH8410,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Tha Chang,ท่าฉาง,TH8411,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Ban Na San,บ้านนาสาร,TH8412,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Ban Na Doem,บ้านนาเดิม,TH8413,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Khian Sa,เคียนซา,TH8414,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Wiang Sa,เวียงสระ,TH8415,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Phrasaeng,พระแสง,TH8416,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Phunphin,พุนพิน,TH8417,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Chai Buri,ชัยบุรี,TH8418,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Vibhavadi,วิภาวดี,TH8419,Surat Thani,สุราษฎร์ธานี,TH84,Thailand,ประเทศไทย,TH
+Mueang Ranong,เมืองระนอง,TH8501,Ranong,ระนอง,TH85,Thailand,ประเทศไทย,TH
+La-Un,ละอุ่น,TH8502,Ranong,ระนอง,TH85,Thailand,ประเทศไทย,TH
+Kapoe,กะเปอร์,TH8503,Ranong,ระนอง,TH85,Thailand,ประเทศไทย,TH
+Kra Buri,กระบุรี,TH8504,Ranong,ระนอง,TH85,Thailand,ประเทศไทย,TH
+Suk Samran,สุขสำราญ,TH8505,Ranong,ระนอง,TH85,Thailand,ประเทศไทย,TH
+Mueang Chumphon,เมืองชุมพร,TH8601,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Tha Sae,ท่าแซะ,TH8602,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Pathio,ปะทิว,TH8603,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Lang Suan,หลังสวน,TH8604,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Lamae,ละแม,TH8605,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Phato,พะโต๊ะ,TH8606,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Sawi,สวี,TH8607,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Thung Tako,ทุ่งตะโก,TH8608,Chumphon,ชุมพร,TH86,Thailand,ประเทศไทย,TH
+Mueang Songkhla,เมืองสงขลา,TH9001,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Sathing Phra,สทิงพระ,TH9002,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Chana,จะนะ,TH9003,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Na Thawi,นาทวี,TH9004,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Thepha,เทพา,TH9005,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Saba Yoi,สะบ้าย้อย,TH9006,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Ranot,ระโนด,TH9007,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Krasae Sin,กระแสสินธุ์,TH9008,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Rattaphum,รัตภูมิ,TH9009,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Sadao,สะเดา,TH9010,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Hat Yai,หาดใหญ่,TH9011,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Na Mom,นาหม่อม,TH9012,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Khuan Niang,ควนเนียง,TH9013,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Bang Klam,บางกล่ำ,TH9014,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Singhanakhon,สิงหนคร,TH9015,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Khlong Hoi Khong,คลองหอยโข่ง,TH9016,Songkhla,สงขลา,TH90,Thailand,ประเทศไทย,TH
+Mueang Satun,เมืองสตูล,TH9101,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Khuan Don,ควนโดน,TH9102,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Khuan Kalong,ควนกาหลง,TH9103,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Tha Phae,ท่าแพ,TH9104,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+La-Ngu,ละงู,TH9105,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Thung Wa,ทุ่งหว้า,TH9106,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Manang,มะนัง,TH9107,Satun,สตูล,TH91,Thailand,ประเทศไทย,TH
+Mueang Trang,เมืองตรัง,TH9201,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Kantang,กันตัง,TH9202,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Yan Ta Khao,ย่านตาขาว,TH9203,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Palian,ปะเหลียน,TH9204,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Sikao,สิเกา,TH9205,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Huai Yot,ห้วยยอด,TH9206,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Wang Wiset,วังวิเศษ,TH9207,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Na Yong,นาโยง,TH9208,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Ratsada,รัษฎา,TH9209,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Hat Samran,หาดสำราญ,TH9210,Trang,ตรัง,TH92,Thailand,ประเทศไทย,TH
+Mueang Phatthalung,เมืองพัทลุง,TH9301,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Kong Ra,กงหรา,TH9302,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Khao Chaison,เขาชัยสน,TH9303,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Tamot,ตะโหมด,TH9304,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Khuan Khanun,ควนขนุน,TH9305,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Pak Phayun,ปากพะยูน,TH9306,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Si Banphot,ศรีบรรพต,TH9307,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Pa Bon,ป่าบอน,TH9308,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Bang Kaeo,บางแก้ว,TH9309,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Pa Phayom,ป่าพะยอม,TH9310,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Srinagarindra,ศรีนครินทร์,TH9311,Phatthalung,พัทลุง,TH93,Thailand,ประเทศไทย,TH
+Mueang Pattani,เมืองปัตตานี,TH9401,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Khok Pho,โคกโพธิ์,TH9402,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Nong Chik,หนองจิก,TH9403,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Panare,ปะนาเระ,TH9404,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Mayo,มายอ,TH9405,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Thung Yang Daeng,ทุ่งยางแดง,TH9406,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Sai Buri,สายบุรี,TH9407,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Mai Kaen,ไม้แก่น,TH9408,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Yaring,ยะหริ่ง,TH9409,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Yarang,ยะรัง,TH9410,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Kapho,กะพ้อ,TH9411,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Mae Lan,แม่ลาน,TH9412,Pattani,ปัตตานี,TH94,Thailand,ประเทศไทย,TH
+Mueang Yala,เมืองยะลา,TH9501,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Betong,เบตง,TH9502,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Bannang Sata,บันนังสตา,TH9503,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Than To,ธารโต,TH9504,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Yaha,ยะหา,TH9505,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Raman,รามัน,TH9506,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Kabang,กาบัง,TH9507,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Krong Pinang,กรงปินัง,TH9508,Yala,ยะลา,TH95,Thailand,ประเทศไทย,TH
+Mueang Narathiwat,เมืองนราธิวาส,TH9601,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Tak Bai,ตากใบ,TH9602,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Bacho,บาเจาะ,TH9603,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Yi-Ngo,ยี่งอ,TH9604,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Ra-Ngae,ระแงะ,TH9605,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Rueso,รือเสาะ,TH9606,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Si Sakhon,ศรีสาคร,TH9607,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Waeng,แว้ง,TH9608,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Sukhirin,สุคิริน,TH9609,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Su-Ngai Kolok,สุไหงโก-ลก,TH9610,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Su-Ngai Padi,สุไหงปาดี,TH9611,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Chanae,จะแนะ,TH9612,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH
+Cho-Airong,เจาะไอร้อง,TH9613,Narathiwat,นราธิวาส,TH96,Thailand,ประเทศไทย,TH

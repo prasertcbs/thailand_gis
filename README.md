@@ -1,6 +1,6 @@
 # thailand_gis
 
-## shapefiles ของอำเภอในแต่ละจังหวัด
+## shapefiles ของอำเภอในแต่ละจังหวัด (folder, and zip)
 
 ## kml ของอำเภอในแต่ละจังหวัด
 

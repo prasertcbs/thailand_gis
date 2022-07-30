@@ -1,68 +1,68 @@
-Shape_Leng,Shape_Area,ADM2_EN,ADM2_TH,ADM2_PCODE,ADM1_EN,ADM1_TH,ADM1_PCODE,ADM0_EN,ADM0_TH,ADM0_PCODE
-1.02862853364,0.0217896442525,Mueang Chon Buri,เมืองชลบุรี,TH2001,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.33288231242,0.0493323968642,Ban Bueng,บ้านบึง,TH2002,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.3464600982,0.0380427442023,Nong Yai,หนองใหญ่,TH2003,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.46554650482,0.0455238550012,Bang Lamung,บางละมุง,TH2004,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-0.94578564851,0.0137894662152,Phan Thong,พานทอง,TH2005,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.17825091722,0.0402094994856,Phanat Nikhom,พนัสนิคม,TH2006,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.49082523803,0.0510371616869,Si Racha,ศรีราชา,TH2007,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-0.25100603777,0.000589228975349,Ko Si Chang,เกาะสีชัง,TH2008,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.77270425753,0.023672684815,Sattahip,สัตหีบ,TH2009,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-1.48962190819,0.0693119366414,Bo Thong,บ่อทอง,TH2010,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-0.904587308021,0.0223314667888,Ko Chan,เกาะจันทร์,TH2011,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH
-2.07402704629,0.0554069487046,Mueang Rayong,เมืองระยอง,TH2101,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-0.581033028709,0.013617492124,Ban Chang,บ้านฉาง,TH2102,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-1.99783727593,0.0612128859844,Klaeng,แกลง,TH2103,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-1.32044721939,0.0311874208071,Wang Chan,วังจันทร์,TH2104,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-1.31465277433,0.0404166094775,Ban Khai,บ้านค่าย,TH2105,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-1.43372682681,0.045470257418,Pluak Daeng,ปลวกแดง,TH2106,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-1.45358676112,0.0397663453426,Khao Chamao,เขาชะเมา,TH2107,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-0.856487996474,0.0195490461853,Nikhom Phatthana,นิคมพัฒนา,TH2108,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH
-0.951731322201,0.0235432553996,Mueang Chanthaburi,เมืองจันทบุรี,TH2201,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-2.31896536451,0.0653126774114,Khlung,ขลุง,TH2202,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.82014280942,0.0521543048699,Tha Mai,ท่าใหม่,TH2203,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.85225437264,0.0849115708362,Pong Nam Ron,โป่งน้ำร้อน,TH2204,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.17009583053,0.0371322161833,Makham,มะขาม,TH2205,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.09407086829,0.0139849071983,Laem Sing,แหลมสิงห์,TH2206,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.71458870867,0.0667507203681,Soi Dao,สอยดาว,TH2207,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-2.10072233509,0.101175062752,Kaeng Hang Maeo,แก่งหางแมว,TH2208,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.27552067285,0.0237420478729,Na Yai Am,นายายอาม,TH2209,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-1.68452103342,0.0646096725889,Khao Khitchakut,เขาคิชฌกูฏ,TH2210,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH
-2.56111597753,0.0788346174123,Mueang Trat,เมืองตราด,TH2301,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-0.911390251073,0.00620320710037,Khlong Yai,คลองใหญ่,TH2302,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-1.82733081879,0.0538644633303,Khao Saming,เขาสมิง,TH2303,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-1.65125728523,0.0564132310129,Bo Rai,บ่อไร่,TH2304,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-0.882461169922,0.0138916828674,Laem Ngop,แหลมงอบ,TH2305,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-1.37378117883,0.0107792732453,Ko Kut,เกาะกูด,TH2306,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-1.59559809554,0.0184760530686,Ko Chang,เกาะช้าง,TH2307,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH
-1.02932780422,0.0322306878056,Mueang Chachoengsao,เมืองฉะเชิงเทรา,TH2401,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.0883141141,0.0196203139415,Bang Khla,บางคล้า,TH2402,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.07013921869,0.0416153277578,Bang Nam Priao,บางน้ำเปรี้ยว,TH2403,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-0.868571727512,0.0218408980412,Bang Pakong,บางปะกง,TH2404,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.02944327045,0.0177568649405,Ban Pho,บ้านโพธิ์,TH2405,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.16079271295,0.0428898166989,Phanom Sarakham,พนมสารคาม,TH2406,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-0.687514932046,0.0122165951766,Ratchasan,ราชสาส์น,TH2407,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-2.24387408144,0.0890349207178,Sanam Chai Khet,สนามชัยเขต,TH2408,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.0920155,0.0269300744093,Plaeng Yao,แปลงยาว,TH2409,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.96397563489,0.118579282586,Tha Takiap,ท่าตะเกียบ,TH2410,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-0.610600176625,0.00876922768897,Khlong Khuean,คลองเขื่อน,TH2411,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH
-1.28613119837,0.039598283823,Mueang Prachin Buri,เมืองปราจีนบุรี,TH2501,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-2.70590935578,0.117830718571,Kabin Buri,กบินทร์บุรี,TH2502,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-2.37175758402,0.102176068145,Na Di,นาดี,TH2503,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-1.14864282301,0.0315661800246,Ban Sang,บ้านสร้าง,TH2506,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-1.85969192442,0.0795231372069,Prachantakham,ประจันตคาม,TH2507,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-1.28700616384,0.0402565150996,Si Maha Phot,ศรีมหาโพธิ,TH2508,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-0.651424562699,0.0113807446949,Si Mahosot,ศรีมโหสถ,TH2509,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH
-1.87299458655,0.0692864585613,Mueang Nakhon Nayok,เมืองนครนายก,TH2601,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
-1.48069469393,0.0360258246005,Pak Phli,ปากพลี,TH2602,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
-1.03291979076,0.0296577114211,Ban Na,บ้านนา,TH2603,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
-1.04174819578,0.0439388949335,Ongkharak,องครักษ์,TH2604,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH
-2.60322476091,0.114401344353,Mueang Sa Kaeo,เมืองสระแก้ว,TH2701,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-1.55923951504,0.0405435792127,Khlong Hat,คลองหาด,TH2702,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-1.59334697954,0.080506232254,Ta Phraya,ตาพระยา,TH2703,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-1.24370572416,0.0345228562628,Wang Nam Yen,วังน้ำเย็น,TH2704,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-2.69303369158,0.128955156049,Watthana Nakhon,วัฒนานคร,TH2705,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-2.02241148492,0.061415988993,Aranyaprathet,อรัญประเทศ,TH2706,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-1.43509519831,0.035727750745,Khao Chakan,เขาฉกรรจ์,TH2707,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-0.873769685891,0.0285126405962,Khok Sung,โคกสูง,TH2708,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
-1.42557434453,0.0428870316127,Wang Sombun,วังสมบูรณ์,TH2709,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH
+ADM2_EN,ADM2_TH,ADM2_PCODE,ADM1_EN,ADM1_TH,ADM1_PCODE,ADM0_EN,ADM0_TH,ADM0_PCODE,REGION9,REGION6,DESTINATION
+Mueang Chon Buri,เมืองชลบุรี,TH2001,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ban Bueng,บ้านบึง,TH2002,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Nong Yai,หนองใหญ่,TH2003,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Bang Lamung,บางละมุง,TH2004,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Phan Thong,พานทอง,TH2005,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Phanat Nikhom,พนัสนิคม,TH2006,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Si Racha,ศรีราชา,TH2007,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ko Si Chang,เกาะสีชัง,TH2008,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Sattahip,สัตหีบ,TH2009,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Bo Thong,บ่อทอง,TH2010,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ko Chan,เกาะจันทร์,TH2011,Chon Buri,ชลบุรี,TH20,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Mueang Rayong,เมืองระยอง,TH2101,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ban Chang,บ้านฉาง,TH2102,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Klaeng,แกลง,TH2103,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Wang Chan,วังจันทร์,TH2104,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ban Khai,บ้านค่าย,TH2105,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Pluak Daeng,ปลวกแดง,TH2106,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Khao Chamao,เขาชะเมา,TH2107,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Nikhom Phatthana,นิคมพัฒนา,TH2108,Rayong,ระยอง,TH21,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Mueang Chanthaburi,เมืองจันทบุรี,TH2201,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khlung,ขลุง,TH2202,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Tha Mai,ท่าใหม่,TH2203,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Pong Nam Ron,โป่งน้ำร้อน,TH2204,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Makham,มะขาม,TH2205,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Laem Sing,แหลมสิงห์,TH2206,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Soi Dao,สอยดาว,TH2207,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Kaeng Hang Maeo,แก่งหางแมว,TH2208,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Na Yai Am,นายายอาม,TH2209,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khao Khitchakut,เขาคิชฌกูฏ,TH2210,Chanthaburi,จันทบุรี,TH22,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Mueang Trat,เมืองตราด,TH2301,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khlong Yai,คลองใหญ่,TH2302,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khao Saming,เขาสมิง,TH2303,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Bo Rai,บ่อไร่,TH2304,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Laem Ngop,แหลมงอบ,TH2305,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ko Kut,เกาะกูด,TH2306,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ko Chang,เกาะช้าง,TH2307,Trat,ตราด,TH23,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Mueang Chachoengsao,เมืองฉะเชิงเทรา,TH2401,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Bang Khla,บางคล้า,TH2402,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Bang Nam Priao,บางน้ำเปรี้ยว,TH2403,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Bang Pakong,บางปะกง,TH2404,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ban Pho,บ้านโพธิ์,TH2405,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Phanom Sarakham,พนมสารคาม,TH2406,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Ratchasan,ราชสาส์น,TH2407,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Sanam Chai Khet,สนามชัยเขต,TH2408,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Plaeng Yao,แปลงยาว,TH2409,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Tha Takiap,ท่าตะเกียบ,TH2410,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Khlong Khuean,คลองเขื่อน,TH2411,Chachoengsao,ฉะเชิงเทรา,TH24,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองหลัก
+Mueang Prachin Buri,เมืองปราจีนบุรี,TH2501,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Kabin Buri,กบินทร์บุรี,TH2502,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Na Di,นาดี,TH2503,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ban Sang,บ้านสร้าง,TH2506,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Prachantakham,ประจันตคาม,TH2507,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Si Maha Phot,ศรีมหาโพธิ,TH2508,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Si Mahosot,ศรีมโหสถ,TH2509,Prachin Buri,ปราจีนบุรี,TH25,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Mueang Nakhon Nayok,เมืองนครนายก,TH2601,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Pak Phli,ปากพลี,TH2602,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ban Na,บ้านนา,TH2603,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ongkharak,องครักษ์,TH2604,Nakhon Nayok,นครนายก,TH26,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Mueang Sa Kaeo,เมืองสระแก้ว,TH2701,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khlong Hat,คลองหาด,TH2702,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Ta Phraya,ตาพระยา,TH2703,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Wang Nam Yen,วังน้ำเย็น,TH2704,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Watthana Nakhon,วัฒนานคร,TH2705,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Aranyaprathet,อรัญประเทศ,TH2706,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khao Chakan,เขาฉกรรจ์,TH2707,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Khok Sung,โคกสูง,TH2708,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง
+Wang Sombun,วังสมบูรณ์,TH2709,Sa Kaeo,สระแก้ว,TH27,Thailand,ประเทศไทย,TH,ภาคตะวันออก,ภาคตะวันออก,เมืองรอง

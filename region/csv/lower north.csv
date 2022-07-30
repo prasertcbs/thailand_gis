@@ -1,85 +1,85 @@
-Shape_Leng,Shape_Area,ADM2_EN,ADM2_TH,ADM2_PCODE,ADM1_EN,ADM1_TH,ADM1_PCODE,ADM0_EN,ADM0_TH,ADM0_PCODE
-1.72884239515,0.061270223401,Mueang Nakhon Sawan,เมืองนครสวรรค์,TH6001,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-0.908707532473,0.0253336871016,Krok Phra,โกรกพระ,TH6002,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.30994620474,0.0467874799387,Chum Saeng,ชุมแสง,TH6003,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.57521568407,0.0697001900294,Nong Bua,หนองบัว,TH6004,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.48230972129,0.0616570865558,Banphot Phisai,บรรพตพิสัย,TH6005,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-0.822941275465,0.0186638047034,Kao Liao,เก้าเลี้ยว,TH6006,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.67035094518,0.0699198144443,Takhli,ตาคลี,TH6007,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.53059125275,0.0705755144826,Tha Tako,ท่าตะโก,TH6008,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.79524841179,0.0839599684376,Phaisali,ไพศาลี,TH6009,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.3242392944,0.0557633183608,Phayuha Khiri,พยุหะคีรี,TH6010,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.53506551572,0.0631370484196,Lat Yao,ลาดยาว,TH6011,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.40222243364,0.0411664179719,Tak Fa,ตากฟ้า,TH6012,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-2.15596950125,0.0844359893116,Mae Wong,แม่วงก์,TH6013,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.10382133221,0.0277728665249,Mae Poen,แม่เปิน,TH6014,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.07318240355,0.0218296449602,Chum Ta Bong,ชุมตาบง,TH6015,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH
-1.0422701955,0.0196523098444,Mueang Uthai Thani,เมืองอุทัยธานี,TH6101,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-1.05006464097,0.0305224643178,Thap Than,ทัพทัน,TH6102,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-1.2317548073,0.0366962542075,Sawang Arom,สว่างอารมณ์,TH6103,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-1.01404773129,0.0297925219218,Nong Chang,หนองฉาง,TH6104,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-0.828865373196,0.0135581960032,Nong Khayang,หนองขาหย่าง,TH6105,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-4.34007440595,0.277186406989,Ban Rai,บ้านไร่,TH6106,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-2.26153512364,0.122154700425,Lan Sak,ลานสัก,TH6107,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-1.17373351436,0.0291807475245,Huai Khot,ห้วยคต,TH6108,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH
-2.70185770386,0.124515127323,Mueang Kamphaeng Phet,เมืองกำแพงเพชร,TH6201,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-1.08792903999,0.0457473898221,Sai Ngam,ไทรงาม,TH6202,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-2.28630910713,0.123580978995,Khlong Lan,คลองลาน,TH6203,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-2.16386453697,0.0993214548215,Khanu Woralaksaburi,ขาณุวรลักษบุรี,TH6204,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-1.39364494077,0.0594982566403,Khlong Khlung,คลองขลุง,TH6205,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-2.03014812994,0.0850493943282,Phran Kratai,พรานกระต่าย,TH6206,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-1.25014242846,0.0347467929561,Lan Krabue,ลานกระบือ,TH6207,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-0.689482478095,0.0177544319617,Sai Thong Watthana,ทรายทองวัฒนา,TH6208,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-2.38847502179,0.063490779894,Pang Sila Thong,ปางศิลาทอง,TH6209,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-0.77036629108,0.0241699285031,Bueng Samakkhi,บึงสามัคคี,TH6210,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-1.85589925359,0.045852403884,Kosamphi Nakhon,โกสัมพีนคร,TH6211,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH
-3.43148206478,0.160045866708,Mueang Tak,เมืองตาก,TH6301,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-2.15013972121,0.0882481998857,Ban Tak,บ้านตาก,TH6302,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-3.59172872402,0.233217748208,Sam Ngao,สามเงา,TH6303,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-2.93807771866,0.130471977195,Mae Ramat,แม่ระมาด,TH6304,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-3.32433389821,0.165715505296,Tha Song Yang,ท่าสองยาง,TH6305,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-2.31337990742,0.133764312555,Mae Sot,แม่สอด,TH6306,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-2.00549978932,0.0837802986873,Phop Phra,พบพระ,TH6307,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-3.89230085012,0.407519109873,Umphang,อุ้มผาง,TH6308,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-1.49926883532,0.0614694735828,Wang Chao,วังเจ้า,TH6309,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH
-1.28158888219,0.0473486960364,Mueang Sukhothai,เมืองสุโขทัย,TH6401,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-2.14186152649,0.0813335149063,Ban Dan Lan Hoi,บ้านด่านลานหอย,TH6402,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.27345330933,0.0558087095849,Khiri Mat,คีรีมาศ,TH6403,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.19137099522,0.0375408844242,Kong Krailat,กงไกรลาศ,TH6404,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-2.51591961636,0.180299275048,Si Satchanalai,ศรีสัชนาลัย,TH6405,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.65697365409,0.0520503729399,Si Samrong,ศรีสำโรง,TH6406,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.56062676889,0.0524889683461,Sawankhalok,สวรรคโลก,TH6407,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-0.980705988218,0.0154584618443,Si Nakhon,ศรีนคร,TH6408,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.37147823454,0.0453114205807,Thung Saliam,ทุ่งเสลี่ยม,TH6409,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH
-1.6636338916,0.0607239256465,Mueang Phitsanulok,เมืองพิษณุโลก,TH6501,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-2.73293993726,0.200914558328,Nakhon Thai,นครไทย,TH6502,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-2.73327391581,0.137356529424,Chat Trakan,ชาติตระการ,TH6503,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.67549328891,0.0816515023237,Bang Rakam,บางระกำ,TH6504,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.011777969,0.0299270369977,Bang Krathum,บางกระทุ่ม,TH6505,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.70869280204,0.0704740347175,Phrom Phiram,พรหมพิราม,TH6506,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.59217489879,0.0734497867697,Wat Bot,วัดโบสถ์,TH6507,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-2.99374597845,0.144416359624,Wang Thong,วังทอง,TH6508,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.7719414998,0.0939674743087,Noen Maprang,เนินมะปราง,TH6509,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH
-1.44344021998,0.0473547424135,Mueang Phichit,เมืองพิจิตร,TH6601,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.11599177472,0.0216843480646,Wang Sai Phun,วังทรายพูน,TH6602,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.01001560919,0.033176925069,Pho Prathap Chang,โพธิ์ประทับช้าง,TH6603,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.44768075631,0.0390572763382,Taphan Hin,ตะพานหิน,TH6604,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.12226785328,0.0334341409427,Bang Mun Nak,บางมูลนาก,TH6605,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.14594678253,0.0442345920629,Pho Thale,โพทะเล,TH6606,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.32935470042,0.0305578432135,Sam Ngam,สามง่าม,TH6607,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.27824986508,0.0334792668785,Tap Khlo,ทับคล้อ,TH6608,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-0.792728427172,0.0150755926514,Sak Lek,สากเหล็ก,TH6609,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.00059000601,0.0250236535722,Bueng Na Rang,บึงนาราง,TH6610,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-1.36407728309,0.0193663195267,Dong Charoen,ดงเจริญ,TH6611,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-0.813600165485,0.0241434226041,Wachirabarami,วชิรบารมี,TH6612,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH
-3.45462496881,0.190586199949,Mueang Phetchabun,เมืองเพชรบูรณ์,TH6701,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.12703731973,0.0942341998061,Chon Daen,ชนแดน,TH6702,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.15874618421,0.120085291689,Lom Sak,หล่มสัก,TH6703,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-1.61674392603,0.0822839996413,Lom Kao,หล่มเก่า,TH6704,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.30655609433,0.128149083896,Wichian Buri,วิเชียรบุรี,TH6705,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-1.77552618132,0.0695288516395,Si Thep,ศรีเทพ,TH6706,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.35317676812,0.109744577407,Nong Phai,หนองไผ่,TH6707,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.06414596375,0.0628826246753,Bueng Sam Phan,บึงสามพัน,TH6708,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.11673346238,0.0790191047616,Nam Nao,น้ำหนาว,TH6709,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-1.20070591309,0.0415133093002,Wang Pong,วังโป่ง,TH6710,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
-2.08918289323,0.0694264329215,Khao Kho,เขาค้อ,TH6711,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH
+ADM2_EN,ADM2_TH,ADM2_PCODE,ADM1_EN,ADM1_TH,ADM1_PCODE,ADM0_EN,ADM0_TH,ADM0_PCODE,REGION9,REGION6,DESTINATION
+Mueang Nakhon Sawan,เมืองนครสวรรค์,TH6001,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Krok Phra,โกรกพระ,TH6002,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Chum Saeng,ชุมแสง,TH6003,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nong Bua,หนองบัว,TH6004,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Banphot Phisai,บรรพตพิสัย,TH6005,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Kao Liao,เก้าเลี้ยว,TH6006,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Takhli,ตาคลี,TH6007,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Tha Tako,ท่าตะโก,TH6008,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Phaisali,ไพศาลี,TH6009,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Phayuha Khiri,พยุหะคีรี,TH6010,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Lat Yao,ลาดยาว,TH6011,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Tak Fa,ตากฟ้า,TH6012,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mae Wong,แม่วงก์,TH6013,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mae Poen,แม่เปิน,TH6014,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Chum Ta Bong,ชุมตาบง,TH6015,Nakhon Sawan,นครสวรรค์,TH60,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Uthai Thani,เมืองอุทัยธานี,TH6101,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Thap Than,ทัพทัน,TH6102,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sawang Arom,สว่างอารมณ์,TH6103,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nong Chang,หนองฉาง,TH6104,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nong Khayang,หนองขาหย่าง,TH6105,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Ban Rai,บ้านไร่,TH6106,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Lan Sak,ลานสัก,TH6107,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Huai Khot,ห้วยคต,TH6108,Uthai Thani,อุทัยธานี,TH61,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Kamphaeng Phet,เมืองกำแพงเพชร,TH6201,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sai Ngam,ไทรงาม,TH6202,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Khlong Lan,คลองลาน,TH6203,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Khanu Woralaksaburi,ขาณุวรลักษบุรี,TH6204,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Khlong Khlung,คลองขลุง,TH6205,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Phran Kratai,พรานกระต่าย,TH6206,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Lan Krabue,ลานกระบือ,TH6207,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sai Thong Watthana,ทรายทองวัฒนา,TH6208,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Pang Sila Thong,ปางศิลาทอง,TH6209,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bueng Samakkhi,บึงสามัคคี,TH6210,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Kosamphi Nakhon,โกสัมพีนคร,TH6211,Kamphaeng Phet,กำแพงเพชร,TH62,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Tak,เมืองตาก,TH6301,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Ban Tak,บ้านตาก,TH6302,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sam Ngao,สามเงา,TH6303,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mae Ramat,แม่ระมาด,TH6304,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Tha Song Yang,ท่าสองยาง,TH6305,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mae Sot,แม่สอด,TH6306,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Phop Phra,พบพระ,TH6307,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Umphang,อุ้มผาง,TH6308,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wang Chao,วังเจ้า,TH6309,Tak,ตาก,TH63,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Sukhothai,เมืองสุโขทัย,TH6401,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Ban Dan Lan Hoi,บ้านด่านลานหอย,TH6402,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Khiri Mat,คีรีมาศ,TH6403,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Kong Krailat,กงไกรลาศ,TH6404,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Si Satchanalai,ศรีสัชนาลัย,TH6405,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Si Samrong,ศรีสำโรง,TH6406,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sawankhalok,สวรรคโลก,TH6407,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Si Nakhon,ศรีนคร,TH6408,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Thung Saliam,ทุ่งเสลี่ยม,TH6409,Sukhothai,สุโขทัย,TH64,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Phitsanulok,เมืองพิษณุโลก,TH6501,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nakhon Thai,นครไทย,TH6502,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Chat Trakan,ชาติตระการ,TH6503,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bang Rakam,บางระกำ,TH6504,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bang Krathum,บางกระทุ่ม,TH6505,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Phrom Phiram,พรหมพิราม,TH6506,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wat Bot,วัดโบสถ์,TH6507,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wang Thong,วังทอง,TH6508,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Noen Maprang,เนินมะปราง,TH6509,Phitsanulok,พิษณุโลก,TH65,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Phichit,เมืองพิจิตร,TH6601,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wang Sai Phun,วังทรายพูน,TH6602,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Pho Prathap Chang,โพธิ์ประทับช้าง,TH6603,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Taphan Hin,ตะพานหิน,TH6604,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bang Mun Nak,บางมูลนาก,TH6605,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Pho Thale,โพทะเล,TH6606,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sam Ngam,สามง่าม,TH6607,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Tap Khlo,ทับคล้อ,TH6608,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Sak Lek,สากเหล็ก,TH6609,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bueng Na Rang,บึงนาราง,TH6610,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Dong Charoen,ดงเจริญ,TH6611,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wachirabarami,วชิรบารมี,TH6612,Phichit,พิจิตร,TH66,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Mueang Phetchabun,เมืองเพชรบูรณ์,TH6701,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Chon Daen,ชนแดน,TH6702,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Lom Sak,หล่มสัก,TH6703,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Lom Kao,หล่มเก่า,TH6704,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wichian Buri,วิเชียรบุรี,TH6705,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Si Thep,ศรีเทพ,TH6706,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nong Phai,หนองไผ่,TH6707,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Bueng Sam Phan,บึงสามพัน,TH6708,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Nam Nao,น้ำหนาว,TH6709,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Wang Pong,วังโป่ง,TH6710,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง
+Khao Kho,เขาค้อ,TH6711,Phetchabun,เพชรบูรณ์,TH67,Thailand,ประเทศไทย,TH,ภาคเหนือตอนล่าง,ภาคเหนือ,เมืองรอง

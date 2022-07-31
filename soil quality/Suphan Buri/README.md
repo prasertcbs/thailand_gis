@@ -1,0 +1,2 @@
+- แหล่งข้อมูลชุดดิน: https://tswc.ldd.go.th/DownloadGIS/Index_Soil.html
+- shapefile: https://tswc.ldd.go.th/DownloadGIS/SoilSeries/R01/spb.rar

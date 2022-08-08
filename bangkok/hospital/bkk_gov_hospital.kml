@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bkk_gov_hospital.schema">
+      <SimpleField name="DCODE" type="string"/>
+      <SimpleField name="address" type="string"/>
+      <SimpleField name="tel" type="string"/>
+      <SimpleField name="num_bed" type="string"/>
+      <SimpleField name="x" type="float"/>
+      <SimpleField name="y" type="float"/>
+    </Schema>
+    <Document id="bkk_gov_hospital">
+      <name>bkk_gov_hospital</name>
+      <Placemark id="bkk_gov_hospital.1">
+        <name>โรงพยาบาลภูมิพลอดุลยเดช</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1042</SimpleData>
+            <SimpleData name="address">171 ถ.พหลโยธิน แขวงคลองถนน เขตสายไหม  กทม.10220</SimpleData>
+            <SimpleData name="tel">0 - 2534-7000</SimpleData>
+            <SimpleData name="num_bed">700</SimpleData>
+            <SimpleData name="x">674848.512</SimpleData>
+            <SimpleData name="y">1538263.349</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.618279976002,13.9090676131927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.2">
+        <name>โรงพยาบาลและสถาบันประสาทวิทยา</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">312 ถ. ราชวิถี แขวงทุ่งพญาไท เขตราชเทวี กทม.</SimpleData>
+            <SimpleData name="tel">0 - 2246 - 9254</SimpleData>
+            <SimpleData name="num_bed">350</SimpleData>
+            <SimpleData name="x">665118.241</SimpleData>
+            <SimpleData name="y">1522693.716</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.527327693111,13.7689162045963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.3">
+        <name>โรงพยาบาลพระมงกุฏเกล้า</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">315 ถ.ราชวิถี ทุ่งพญาไท เขตราชเทวี กทม.10400</SimpleData>
+            <SimpleData name="tel">0 - 2246 - 1400-28</SimpleData>
+            <SimpleData name="num_bed">1236</SimpleData>
+            <SimpleData name="x">665789.636</SimpleData>
+            <SimpleData name="y">1522522.013</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.533526334081,13.7673256034647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.4">
+        <name>โรงพยาบาลราชวิถี</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">2 ถ.พญาไท แขวงทุ่งพญาไท เขตราชเทวี กทม.10400</SimpleData>
+            <SimpleData name="tel">0 - 2248 - 3213-4</SimpleData>
+            <SimpleData name="num_bed">1235</SimpleData>
+            <SimpleData name="x">666049.879</SimpleData>
+            <SimpleData name="y">1522231.596</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.535915795283,13.7646855543858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.5">
+        <name>โรงพยาบาลสงฆ์</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">445 ถ.ศรีอยุธยา แขวงทุ่งพญาไท เขตราชเทวี กทม.10400</SimpleData>
+            <SimpleData name="tel">0 - 2247 - 1655</SimpleData>
+            <SimpleData name="num_bed">428</SimpleData>
+            <SimpleData name="x">665042.941</SimpleData>
+            <SimpleData name="y">1521929.2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.526586518347,13.7620101011621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.6">
+        <name>สถาบันกัลยาณ์ราชนครินทร(นิติจิตเวช)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1048</SimpleData>
+            <SimpleData name="address">23 ม. 8 ถนนพุทธมณฑล สาย 4 แขวงทวีวัฒนา เขตทวีวัฒนา กทม. 10170</SimpleData>
+            <SimpleData name="tel">0 - 2889 - 9066-7</SimpleData>
+            <SimpleData name="num_bed">230</SimpleData>
+            <SimpleData name="x">643881.4</SimpleData>
+            <SimpleData name="y">1521906.8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.330889054717,13.7629426179073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.7">
+        <name>โรงพยาบาลราชานุกูล</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1026</SimpleData>
+            <SimpleData name="address">4737 ถ. ดินแดง แขวงดินแดง เขตดินแดง กทม. 10320</SimpleData>
+            <SimpleData name="tel">0 - 2245 - 4601-4</SimpleData>
+            <SimpleData name="num_bed">450</SimpleData>
+            <SimpleData name="x">668071.039</SimpleData>
+            <SimpleData name="y">1521875.741</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.554584879772,13.7613517826718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.8">
+        <name>โรงพยาบาลบุรฉัตรไชยากร (รถไฟ)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">700 ถ. มักกะสัน แขวงมักกะสัน เขตราชเทวี กทม. 10400</SimpleData>
+            <SimpleData name="tel">0-2245-2480</SimpleData>
+            <SimpleData name="num_bed">120</SimpleData>
+            <SimpleData name="x">667761.456</SimpleData>
+            <SimpleData name="y">1520840.729</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.551660463678,13.7520145239937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.9">
+        <name>โรงพยาบาลตำรวจ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1007</SimpleData>
+            <SimpleData name="address">492/1 ถ.พระราม 1 แขวงปทุมวัน เขตปทุมวัน กทม. 10330</SimpleData>
+            <SimpleData name="tel">0-2252-8111</SimpleData>
+            <SimpleData name="num_bed">721</SimpleData>
+            <SimpleData name="x">666438.836</SimpleData>
+            <SimpleData name="y">1519798.321</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.539368859183,13.7426689808108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.10">
+        <name>โรงพยาบาลจุฬาลงกรณ์</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1007</SimpleData>
+            <SimpleData name="address">1873 ถ.พระราม 4 แขวงปทุมวัน เขตปทุมวัน กทม. 10330</SimpleData>
+            <SimpleData name="tel">0 -- 2252 - 8131-9</SimpleData>
+            <SimpleData name="num_bed">1492</SimpleData>
+            <SimpleData name="x">666035.708</SimpleData>
+            <SimpleData name="y">1518496.722</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.535564721059,13.7309271544864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.11">
+        <name>โรงพยาบาลสมเด็จเจ้าพระยา</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1018</SimpleData>
+            <SimpleData name="address">94 ถ. สมเด็จเจ้าพระยา แขวงคลองสาน เขตคลองสาน กทม. 10600</SimpleData>
+            <SimpleData name="tel">0 - 2437 - 0200-08</SimpleData>
+            <SimpleData name="num_bed">500</SimpleData>
+            <SimpleData name="x">662732.248</SimpleData>
+            <SimpleData name="y">1518464.549</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.505018688476,13.7308244545432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.12">
+        <name>โรงพยาบาลเลิดสิน</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1004</SimpleData>
+            <SimpleData name="address">190 ถ. ศรีเวียง แขวงสีลม เขตบางรัก กทม.10500</SimpleData>
+            <SimpleData name="tel">0 - 2353-9799</SimpleData>
+            <SimpleData name="num_bed">485</SimpleData>
+            <SimpleData name="x">664088.432</SimpleData>
+            <SimpleData name="y">1517504.069</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.517502333652,13.7220659031744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.13">
+        <name>โรงพยาบาลโรงงานยาสูบ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1033</SimpleData>
+            <SimpleData name="address">184 ถนนพระราม 4 แขวงคลองเตย  เขตคลองเตย กทม.</SimpleData>
+            <SimpleData name="tel">0-2656-4500</SimpleData>
+            <SimpleData name="num_bed">120</SimpleData>
+            <SimpleData name="x">668030.815</SimpleData>
+            <SimpleData name="y">1517835.781</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.553972147063,13.7248375737013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.14">
+        <name>โรงพยาบาลนพรัตน์ราชธานี</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1043</SimpleData>
+            <SimpleData name="address">109 ถ.รามอินทรา (กม.ที่ 10) แขวงคันนายาว เขตบึงกุ่ม กทม.10240</SimpleData>
+            <SimpleData name="tel">0 - 2517 - 4270-9</SimpleData>
+            <SimpleData name="num_bed">510</SimpleData>
+            <SimpleData name="x">682453.46</SimpleData>
+            <SimpleData name="y">1528120.071</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.687982366059,13.8169142033264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.15">
+        <name>โรงพยาบาลศิริราช</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1020</SimpleData>
+            <SimpleData name="address">2 ถ.พรานนก แขวงศิริราช เขตบางกอกน้อย กทม.10700</SimpleData>
+            <SimpleData name="tel">0 - 2411 - 4230-44</SimpleData>
+            <SimpleData name="num_bed">2324</SimpleData>
+            <SimpleData name="x">660408.812</SimpleData>
+            <SimpleData name="y">1521336.78</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.483699102222,13.7569169821897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.16">
+        <name>โรงพยาบาลสมเด็จพระปิ่นเกล้า</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1015</SimpleData>
+            <SimpleData name="address">1028 ถ.ตากสิน แขวงบุคคโล เขตธนบุรี กทม.10600</SimpleData>
+            <SimpleData name="tel">0 - 2468 - 0116-20</SimpleData>
+            <SimpleData name="num_bed">450</SimpleData>
+            <SimpleData name="x">660723.275</SimpleData>
+            <SimpleData name="y">1516197.558</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.486314284543,13.7104453459011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.17">
+        <name>โรงพยาบาลรามาธิบดี</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">270 ถ.พระราม 6 แขวงทุ่งพญาไท เขตราชเทวี กทม. 10400</SimpleData>
+            <SimpleData name="tel">0 - 2588 - 3101-3</SimpleData>
+            <SimpleData name="num_bed">951</SimpleData>
+            <SimpleData name="x">665103.689</SimpleData>
+            <SimpleData name="y">1522410.914</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.527176524062,13.766360803257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.18">
+        <name>โรงพยาบาลทหารผ่านศึก</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1014</SimpleData>
+            <SimpleData name="address">123 ถ.วิภาวดีรังสิต แขวงสามเสนใน เขตพญาไท กทม.</SimpleData>
+            <SimpleData name="tel">0-2245-0661</SimpleData>
+            <SimpleData name="num_bed">201</SimpleData>
+            <SimpleData name="x">667746.315</SimpleData>
+            <SimpleData name="y">1523043.837</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.551651730762,13.7719289352942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.19">
+        <name>สถาบันโรคผิวหนัง</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">420/7 ถ. ราชวิถี แขวงทุ่งพญาไท เขตราชเทวี กทม. 10400</SimpleData>
+            <SimpleData name="tel">0 - 2246 - 1462</SimpleData>
+            <SimpleData name="num_bed">43</SimpleData>
+            <SimpleData name="x">666034.779</SimpleData>
+            <SimpleData name="y">1522338.872</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.535782485113,13.7656560818098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.20">
+        <name>โรงพยาบาลโรคปอดกรุงเทพ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1014</SimpleData>
+            <SimpleData name="address">1281 ถ.พหลโยธิน แขวงสามเสนใน เขตพญาไท</SimpleData>
+            <SimpleData name="tel">0-2278-0463</SimpleData>
+            <SimpleData name="num_bed">22</SimpleData>
+            <SimpleData name="x">667111.986</SimpleData>
+            <SimpleData name="y">1524465.932</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.545870235529,13.7848199482154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.21">
+        <name>โรงพยาบาลทหารเรือกรุงเทพ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1020</SimpleData>
+            <SimpleData name="address">2 ถ.อรุณอมรินทร์ แขวงศิริราช เขตบางกอกน้อย กทม. 10700</SimpleData>
+            <SimpleData name="tel">0-2411-2191</SimpleData>
+            <SimpleData name="num_bed">230</SimpleData>
+            <SimpleData name="x">660681.651</SimpleData>
+            <SimpleData name="y">1520401.511</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.486168779832,13.7484477671095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.22">
+        <name>สถาบันมะเร็งแห่งชาติ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">268/1 ถ. พระราม 6 แขวงทุ่งพญาไท เขตราชเทวี กทม. 10400</SimpleData>
+            <SimpleData name="tel">0 - 2246 - 1463</SimpleData>
+            <SimpleData name="num_bed">264</SimpleData>
+            <SimpleData name="x">665142.318</SimpleData>
+            <SimpleData name="y">1522528.862</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.527540668901,13.7674247161449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.23">
+        <name>สถาบันสุขภาพเด็กแห่งชาติมหาราชินี</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">420/8 ถ.ราชวิถี แขวงทุ่งพญาไท เขตราชเทวี กทม.10400</SimpleData>
+            <SimpleData name="tel">0 - 2245 - 7198</SimpleData>
+            <SimpleData name="num_bed">453</SimpleData>
+            <SimpleData name="x">665984.043</SimpleData>
+            <SimpleData name="y">1522368.065</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.535315031559,13.7659228777005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.24">
+        <name>โรงพยาบาลเวฃศาสตร์เขตร้อน</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1037</SimpleData>
+            <SimpleData name="address">420/6 ถ. ราชวิถี เขตราชเทวี กทม. 10400</SimpleData>
+            <SimpleData name="tel">0-2246-1273</SimpleData>
+            <SimpleData name="num_bed">250</SimpleData>
+            <SimpleData name="x">665865.464</SimpleData>
+            <SimpleData name="y">1522406.833</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.534220770067,13.7662801343457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.25">
+        <name>กองการแพทย์การท่าเรือแห่งประเทศไทย</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1033</SimpleData>
+            <SimpleData name="address">444 ถ.ท่าเรือ แขวงคลองเตย เขตคลองเตย</SimpleData>
+            <SimpleData name="tel">0-22693000</SimpleData>
+            <SimpleData name="num_bed">0</SimpleData>
+            <SimpleData name="x">669363.258</SimpleData>
+            <SimpleData name="y">1516754.004</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.566226653074,13.714981770313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.26">
+        <name>โรงพยาบาลแม่และเด็ก</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1005</SimpleData>
+            <SimpleData name="address">24/29 หมู่ 3 อนุสาวรีย์</SimpleData>
+            <SimpleData name="tel">0-25213064</SimpleData>
+            <SimpleData name="num_bed">30</SimpleData>
+            <SimpleData name="x">672529.051</SimpleData>
+            <SimpleData name="y">1534148.448</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.59656378515,13.8720163207178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.27">
+        <name>โรงพยาบาลคณะทันตแพทย์ศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1007</SimpleData>
+            <SimpleData name="address">34 ถ.อังรีดูนังต์ ซ.64 แขวงวังใหม่ ปทุมวัน</SimpleData>
+            <SimpleData name="tel">0-22188705</SimpleData>
+            <SimpleData name="num_bed">40</SimpleData>
+            <SimpleData name="x">665968.271</SimpleData>
+            <SimpleData name="y">1519863.764</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.535021625088,13.7432876257603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.28">
+        <name>โรงพยาบาลนวุติสมเด็จย่า</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1014</SimpleData>
+            <SimpleData name="address">1279 อาคาร รพ.นวุติสมเด็จย่า ถ.พหลโยธิน แขวงสามเสน</SimpleData>
+            <SimpleData name="tel">0-22798250-9</SimpleData>
+            <SimpleData name="num_bed">0</SimpleData>
+            <SimpleData name="x">667094.662</SimpleData>
+            <SimpleData name="y">1524426.514</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.545707673085,13.7844646603539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.29">
+        <name>โรงพยาบาลกรมสรรพวุธทหารเรือ</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1047</SimpleData>
+            <SimpleData name="address">120 ถ.สรรพาวุธ แขวงบางนา เขตบางนา</SimpleData>
+            <SimpleData name="tel">0-23935392</SimpleData>
+            <SimpleData name="num_bed">80</SimpleData>
+            <SimpleData name="x">671612.956</SimpleData>
+            <SimpleData name="y">1512347.319</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.586758462788,13.6750182235877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="bkk_gov_hospital.30">
+        <name>กองวัณโรค กรมควบคุมโรคติดต่อ กระทรวงสาธารณสุข</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bkk_gov_hospital.schema">
+            <SimpleData name="DCODE">1031</SimpleData>
+            <SimpleData name="address">3331/116 ถ.สุดประเสริฐ แขวงบางโคล่ เขตบางคอแหลม</SimpleData>
+            <SimpleData name="tel">0-22112224,0-2212227</SimpleData>
+            <SimpleData name="num_bed">0</SimpleData>
+            <SimpleData name="x">663636.968</SimpleData>
+            <SimpleData name="y">1515248.135</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.513197586103,13.7017000345355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

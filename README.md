@@ -1,4 +1,5 @@
 # Thailand geographic data (GIS) 
+* Coordinate Reference Systems ในแผนที่ **WGS84 (latitude, longitude)**
 
 1. **shapefile .shp .shx .dbf .prj .cpg** ของตำบล อำเภอในแต่ละจังหวัด (folder, and zip) สำหรับ Excel Power Map
 1. **kml** ของตำบล อำเภอในแต่ละจังหวัด (สำหรับ Excel Power Map)
